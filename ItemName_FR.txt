@@ -1,0 +1,13 @@
+ItemName_FR = {
+    Base.HookB = "Crochet",
+    Base.HookedWaterBottleEmptyOrange = "Bouteille d'eau vide attachée",
+    Base.HookedWaterBottleFullOrange = "Bouteille d'eau attachée",
+    Base.HookedWaterBottleEmptyYellow = "Bouteille d'eau vide attachée",
+    Base.HookedWaterBottleFullYellow = "Bouteille d'eau attachée",
+    Base.HookedWaterBottleEmptyGreen = "Bouteille d'eau vide attachée",
+    Base.HookedWaterBottleFullGreen = "Bouteille d'eau attachée",
+    Base.HookedWaterBottleEmptyPurple = "Bouteille d'eau vide attachée",
+    Base.HookedWaterBottleFullPurple = "Bouteille d'eau attachée",
+    Base.HookedWaterBottleEmptyRed = "Bouteille d'eau vide attachée",
+    Base.HookedWaterBottleFullRed = "Bouteille d'eau attachée",
+}
